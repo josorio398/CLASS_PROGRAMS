@@ -48,7 +48,7 @@ To import classpython you can use:
 
 .. code:: python
 
-    from ClassroomPrograms.classpython import *
+    from ClassroomPrograms.pythonclass import *
 
 Maintainer
 ==========
